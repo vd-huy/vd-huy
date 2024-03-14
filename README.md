@@ -8,7 +8,7 @@ I'm trying to become a web developer. Please follow my development journey
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhuy-v%25C5%25A9-%25C4%2591%25E1%25BB%25A9c-2b25142ba%2F
 " alt="LinkedIn Badge"/>
-  ![Static Badge](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&cacheSeconds=https%3A%2F%2Fwww.facebook.com%2Fhuylu2804)
+  [![Static Badge](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook)](https://facebook.com/huylu2804)
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
