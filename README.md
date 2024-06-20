@@ -1,5 +1,5 @@
 ### Hi there, my name is HuyEnDy 👋
-I'm trying to become a web developer. Please follow my development journey
+My real name is Vu Duc Huy. I come from Nam Dinh. Nam Dinh is abbreviated as N and D so you can call me HuyEndy. I'm trying to become a web developer. Please follow my development journey
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh6Nm4xeDhqY28yOTV0NmdveW1odXV2MjN0eW9kOGlnZGMwaGx4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300"/>
